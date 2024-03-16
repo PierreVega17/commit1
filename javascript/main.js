@@ -19,7 +19,7 @@ links.forEach(function(link){
 //ontent.classList.add("animate__animated");
 
       setTimeout(function(){
-        location.href = "index.html"},1000);
+        location.href = "../index.html"},1000);
 
 return false;
 });
